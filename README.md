@@ -65,8 +65,8 @@ deployment → Source = **GitHub Actions**.
 The site is configured in `astro.config.mjs`:
 
 ```js
-const SITE = "https://mcavs.github.io";
-const BASE = "/trex-lab-website";   // matches the repo name
+const SITE = "https://trex-ai-lab.github.io";
+const BASE = "/";   // root domain
 ```
 
 - **Use a custom domain** (e.g. `trex.ai`)? Set `BASE = "/"`, set
