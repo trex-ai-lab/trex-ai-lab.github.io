@@ -13,4 +13,7 @@ blurb_tr: >-
   Banka iflası tahmin modelleri üzerinde karşı-olgusal açıklamalar kullanarak bir
   bankanın iflas riskini azaltabilecek uygulanabilir değişiklikleri ortaya çıkarır.
 tags: ["counterfactual", "finance"]
+links:
+  doi: https://doi.org/10.1007/s10614-026-11353-4
+  arxiv: https://arxiv.org/abs/2407.11089
 ---

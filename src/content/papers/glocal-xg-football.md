@@ -4,7 +4,7 @@ authors:
   - "Mustafa Çavuş"
   - "Adrian Stando"
   - "Przemysław Biecek"
-venue: "xAI (Springer Communications)"
+venue: "Explainable Artificial Intelligence (xAI 2025, Springer CCIS)"
 year: 2025
 blurb_en: >-
   Introduces "glocal" explanations that bridge global and local views of expected
@@ -14,6 +14,6 @@ blurb_tr: >-
   açıklamalar sunar; analistlere hem genel resmi hem de şut-bazlı gerekçeyi verir.
 tags: ["xai", "sports analytics"]
 links:
-  arxiv: https://arxiv.org/abs/2308.15559
   doi: https://doi.org/10.1007/978-3-032-08333-3_1
+  arxiv: https://arxiv.org/abs/2308.15559
 ---

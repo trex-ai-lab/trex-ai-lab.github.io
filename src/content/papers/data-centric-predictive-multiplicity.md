@@ -3,7 +3,7 @@ title: "Investigating the Impact of Balancing, Filtering, and Complexity on Pred
 authors:
   - "Mustafa Çavuş"
   - "Przemysław Biecek"
-venue: "Information Fusion"
+venue: "Information Fusion (Vol. 123)"
 year: 2025
 blurb_en: >-
   A data-centric study of how balancing, filtering, and dataset complexity drive
@@ -16,6 +16,6 @@ blurb_tr: >-
 tags: ["predictive multiplicity", "imbalanced", "rashomon"]
 featured: true
 links:
+  doi: https://doi.org/10.1016/j.inffus.2025.103243
   arxiv: https://arxiv.org/abs/2412.09712
-  doi: https://doi.org/10.1016/j.inffus.2025.103361
 ---

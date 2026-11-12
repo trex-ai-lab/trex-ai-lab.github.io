@@ -1,5 +1,5 @@
 ---
-title: "From XAI to MLOps: Explainable Concept Drift Detection with Profile Drift Detection"
+title: "From XAI to MLOps: Explainable concept drift detection with the partial dependence profiles-based approach"
 authors:
   - "Uğur Dar"
   - "Mustafa Çavuş"
@@ -16,5 +16,6 @@ blurb_tr: >-
 tags: ["xai", "concept drift", "mlops"]
 featured: true
 links:
+  doi: https://doi.org/10.1016/j.future.2026.108586
   arxiv: https://arxiv.org/abs/2412.11308
 ---
