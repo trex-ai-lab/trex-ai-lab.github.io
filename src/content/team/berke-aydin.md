@@ -11,5 +11,6 @@ group: member
 order: 5
 links:
   linkedin: https://www.linkedin.com/in/berke-ayd%C4%B1n-375b00258/
+  email: berkeaydin1310@gmail.com
   github: https://github.com/aydinberke
 ---
