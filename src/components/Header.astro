@@ -29,7 +29,7 @@ function isActive(path: string) {
   <div class="wrap bar">
     <a class="brand" href={localizedUrl(lang, "")} aria-label="trex.ai — Trustworthy & Explainable AI Lab">
       <img
-        src={`${import.meta.env.BASE_URL}/logo-icon.png`}
+        src={`${import.meta.env.BASE_URL.replace(/\/$/, "")}/logo-icon.png`}
         alt="trex.ai logo"
         class="brand-logo"
         width="28"
