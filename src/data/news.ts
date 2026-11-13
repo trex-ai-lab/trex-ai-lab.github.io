@@ -12,8 +12,8 @@ export interface NewsItem {
 export const news: NewsItem[] = [
   {
     id: "ubk2026-yigitcan",
-    tag_en: "CONFERENCE",
-    tag_tr: "KONGRE",
+    tag_en: "conference",
+    tag_tr: "kongre",
     title_en:
       "Yiğitcan Yardımcı presented our study 'Investigating the Variability of Feature-Importance Explanations across Predictive Models and Explanation Methods in Survival Analysis' at the XXVII. National & X. International Biostatistics Congress (11–14 November 2026 · İzmir, Türkiye).",
     title_tr:

@@ -72,8 +72,8 @@ const description = Astro.props.description ?? t("site.description");
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <NewsTicker lang={lang} />
     <Header lang={lang} />
+    <NewsTicker lang={lang} />
     <main id="main">
       <slot />
     </main>
